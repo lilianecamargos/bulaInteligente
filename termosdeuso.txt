@@ -36,6 +36,6 @@ Você se responsabiliza totalmente pela interpretação das informações que es
 
 Você deve sempre consultar seu médico ou profissional da saúde antes de tomar qualquer medicação. A Skill não se responsabiliza de nenhuma forma caso você tome a decisão de se automedicar ou de não seguir a prescrição médica.
 
-Coletamos apenas a data e o número de acessos que você faz da Skill.
+Coletamos apenas a data do último acesso e o número de acessos que você faz da Skill.
 
 Ao usar a Skill você declara que entendeu esses termos de uso e concorda integralmente com ele.
