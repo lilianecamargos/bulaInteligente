@@ -1,0 +1,41 @@
+TERMOS DE USO DA BULA INTELIGENTE
+
+
+Ultima atualização em 01/11/2020
+
+
+
+Antes de utilizar A Bula Inteligente, leia os termos abaixo com bastante atenção.
+
+Ao usar a Bula Inteligente, você obriga-se a estes termos. Se você não aceitar os referidos termos, não poderá usar a Bula Inteligente. 
+
+A Bula Inteligente é uma skill desenvolvida para a Alexa com o intuito de tornar acessíveis as informações presentes nas bulas dos medicamentos, especialmente para quem tem dificuldade de ler. Para tanto, ela faz busca nas bulas oficiais publicadas pelos laboratórios.
+
+Para os fins destes Termos de Uso da Bula Inteligente, passaremos a nos referir a ela como Skill.
+
+A Skill utiliza informações confiáveis e validadas pelos órgãos oficiais responsáveis do governo brasileiro e, por isso, a skill acessa as bulas provenientes do site oficial da ANVISa Bulário Eletrônico (
+https://consultas.anvisa.gov.br/#/bulario/
+).
+
+Quando um medicamento possui mais de uma bula, a Skill prioriza a leitura da bula com publicação mais recente cuja extração das informações foi possível. Quando em um mesmo arquivo há mais de uma especificação do medicamento, a skill apresenta as informações da primeira especificação listada no arquivo.
+
+A Skill não edita qualquer uma das informações apresentadas, apenas lê para o usuário o resultado da pesquisa de acordo com sua demanda. Por isso, não é responsável de nenhuma forma caso haja qualquer erro nas informações apresentadas.
+
+A Skill NÂO sugere de nenhuma maneira o uso de qualquer medicamento. apenas lê as informações presentes nas bulas.
+O uso da skill NÃO substitui em hipótese alguma a consulta aos médicos ou a qualquer outro profissional da saúde.
+
+O objetivo da skill é apenas tornar acessível o acesso às informações impressas já presentes em todos medicamentos por meio de sua leitura.
+
+Ao utilizar a Skill, você entende que o texto lido pode apresentar problemas de escrita e informações desorganizadas quando o texto original das bulas assim se encontra. Você é responsável por ouvir todo o conteúdo pesquisado para se informar.
+
+Ao utilizar a Skill, você entende que o texto lido pode apresentar alteração na formatação dos dados. Como exemplo, tabelas serão lidas de forma linear e imagens serão ignoradas. Você é responsável por ouvir todo o conteúdo pesquisado para se informar.
+
+A Skill NÂO é responsável de nenhuma forma pelo conteúdo das bulas dos medicamentos.
+
+Você se responsabiliza totalmente pela interpretação das informações que escuta. A Skill não altera os textos das bulas, a skill apenas lê o que encontra. Por isso mesmo, a skill não é responsável caso você interprete de forma errada o que é lido.
+
+Você deve sempre consultar seu médico ou profissional da saúde antes de tomar qualquer medicação. A Skill não se responsabiliza de nenhuma forma caso você tome a decisão de se automedicar ou de não seguir a prescrição médica.
+
+Coletamos apenas a data e o número de acessos que você faz da Skill.
+
+Ao usar a Skill você declara que entendeu esses termos de uso e concorda integralmente com ele.
