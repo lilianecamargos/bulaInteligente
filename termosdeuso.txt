@@ -14,7 +14,7 @@ A Bula Inteligente é uma skill desenvolvida para a Alexa com o intuito de torna
 Para os fins destes Termos de Uso da Bula Inteligente, passaremos a nos referir a ela como Skill.
 
 A Skill utiliza informações confiáveis e validadas pelos órgãos oficiais responsáveis do governo brasileiro e, por isso, a skill acessa as bulas provenientes do site oficial da ANVISa Bulário Eletrônico (
-https://consultas.anvisa.gov.br/#/bulario/
+http://www.anvisa.gov.br/datavisa/fila_bula/index.asp
 ).
 
 Quando um medicamento possui mais de uma bula, a Skill prioriza a leitura da bula com publicação mais recente cuja extração das informações foi possível. Quando em um mesmo arquivo há mais de uma especificação do medicamento, a skill apresenta as informações da primeira especificação listada no arquivo.
