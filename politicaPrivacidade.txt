@@ -1,0 +1,3 @@
+Coletamos apenas a data do último acesso e o número de acessos que você faz da Skill.
+
+Ao usar a Skill você declara que entendeu esses termos de uso e concorda integralmente com ele.
