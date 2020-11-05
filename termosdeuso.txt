@@ -1,7 +1,7 @@
 TERMOS DE USO E POLÍTICA DE PRIVACIDADE DA BULA INTELIGENTE
 
 
-Ultima atualização em 01/11/2020
+Ultima atualização em 05/11/2020
 
 
 
@@ -13,9 +13,9 @@ A Bula Inteligente é uma skill desenvolvida para a Alexa com o intuito de torna
 
 Para os fins destes Termos de Uso da Bula Inteligente, passaremos a nos referir a ela como Skill.
 
-A Skill utiliza informações confiáveis e validadas pelos órgãos oficiais responsáveis do governo brasileiro e, por isso, a skill acessa as bulas provenientes do site oficial da ANVISa Bulário Eletrônico (
+A Skill utiliza informações confiáveis e validadas pelos órgãos oficiais responsáveis do governo brasileiro e, oriundas do site oficial da ANVISA Bulário Eletrônico (
 http://www.anvisa.gov.br/datavisa/fila_bula/index.asp
-).
+). Um serviço de Backend extrai as informações dos PDFs disponíveis no site para um formato de texto estruturado (JSON), disponibilizado em um Bucket Público AWS S3 (arn:aws:s3:::bulainteligente). Os dados estruturado NÃO POSSUEM QUALQUER ALTERAÇÃO NO CONTEÚDO DAS INFORMAÇÕES, SENDO ESSAS DISPONIBILIZADAS EM SEU INTEIRO TEOR ASSIM COMO NO SITE OFICIAL DA ANVISA.
 
 Quando um medicamento possui mais de uma bula, a Skill prioriza a leitura da bula com publicação mais recente cuja extração das informações foi possível. Quando em um mesmo arquivo há mais de uma especificação do medicamento, a skill apresenta as informações da primeira especificação listada no arquivo.
 
